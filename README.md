@@ -11,4 +11,4 @@
 ## Deploy hệ thống Moodle lên AWS cloud
 
 ## Link video báo cáo lần 1: https://youtu.be/ffrDvEAm40Q
-## Link video báo cáo lần 2: 
+## Link video báo cáo lần 2: https://youtu.be/saoBd0n4-xA
