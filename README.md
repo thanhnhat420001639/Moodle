@@ -9,3 +9,6 @@
 
 # Tên đề tài: 
 ## Deploy hệ thống Moodle lên AWS cloud
+
+## Link video báo cáo lần 1: https://youtu.be/ffrDvEAm40Q
+## Link video báo cáo lần 2: 
